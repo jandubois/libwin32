@@ -1,7 +1,0 @@
-Changes
-EventLog.pm
-EventLog.xs
-MANIFEST
-Makefile.PL
-t/eventlog.t
-typemap

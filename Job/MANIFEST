@@ -1,7 +1,0 @@
-Job.pm
-Job.xs
-MANIFEST
-Makefile.PL
-child.t
-test.pl
-typemap

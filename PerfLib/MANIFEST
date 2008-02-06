@@ -1,9 +1,0 @@
-Changes
-MANIFEST
-Makefile.PL
-PerfLib.mak
-PerfLib.pm
-PerfLib.xs
-calc.html
-test.pl
-typemap
